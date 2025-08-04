@@ -1,10 +1,10 @@
 # AI Coding Assistant with Memory
 
 ### Setup
-
+0. Open Pycharm and create virtual environment using python3.12
 1. `pip install -r requirements.txt`
 2. [Get OpenAI API key](https://platform.openai.com/)
-3. `export OPENAI_API_KEY="sk-..."` (or set in your shell/.env)
+3. `set OPENAI_API_KEY="sk-..."`  in your .env
 4. `streamlit run main.py`
 5. Use the sidebar to ingest a project, then ask coding questions!
 
