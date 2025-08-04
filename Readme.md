@@ -21,7 +21,7 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 
 ### Features
 
-- Codebase ingestion to chromadb vector store https://docs.trychroma.com/docs/overview/introduction
+- Codebase ingestion to chromadb vector store https://docs.trychroma.com/docs/overview/introduction, https://docs.trychroma.com/docs/overview/getting-started
 - Search (RAG) : https://python.langchain.com/docs/concepts/rag/
 - Answers code queries, explains, or edits code
 - Maintains chat and project context
