@@ -4,7 +4,8 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 
 ### How to use Pycharm
 1. Open pycharm and create new project
-2. <img width="453" height="675" alt="image" src="https://github.com/user-attachments/assets/3d40572c-150c-4ea2-add9-ca9d3801d55a" />
+2. <img width="248" height="310" alt="image" src="https://github.com/user-attachments/assets/bddc76a3-f0b5-4c47-b74d-2a6be0dff2c9" />
+
 
 ### Setup
 1. Open Pycharm and create virtual environment using python3.12
