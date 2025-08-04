@@ -1,4 +1,6 @@
 # AI Coding Assistant with Memory
+### IDE 
+Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or mac
 
 ### Setup
 1. Open Pycharm and create virtual environment using python3.12
