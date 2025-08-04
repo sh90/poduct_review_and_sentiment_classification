@@ -2,6 +2,10 @@
 ### IDE 
 Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or mac
 
+### How to use Pycharm
+1. Open pycharm and create new project
+2. <img width="453" height="675" alt="image" src="https://github.com/user-attachments/assets/3d40572c-150c-4ea2-add9-ca9d3801d55a" />
+
 ### Setup
 1. Open Pycharm and create virtual environment using python3.12
 2. `pip install -r requirements.txt`
