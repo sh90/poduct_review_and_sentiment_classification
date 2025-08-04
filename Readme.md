@@ -17,7 +17,7 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 3. [Get OpenAI API key](https://platform.openai.com/)
 4. `set OPENAI_API_KEY="sk-..."`  in your .env
 5. `streamlit run main.py`
-6. Use the sidebar to ingest a project, then ask coding questions!
+
 
 ### Features
 
