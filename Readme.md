@@ -21,7 +21,7 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 
 ### Features
 
-- Codebase ingestion & search (RAG)
+- Codebase ingestion & search (RAG) : https://python.langchain.com/docs/concepts/rag/ 
 - Answers code queries, explains, or edits code
 - Maintains chat and project context
 - Lets you run or save code edits directly from the assistant
