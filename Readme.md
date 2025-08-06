@@ -1,4 +1,4 @@
-# AI Coding Assistant with Memory
+# Customer Service Agent
 ### IDE 
 Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or https://www.jetbrains.com/pycharm/download/?section=mac 
 
