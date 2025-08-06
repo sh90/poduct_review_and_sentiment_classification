@@ -16,16 +16,16 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 2. `pip install -r requirements.txt`
 3. [Get OpenAI API key](https://platform.openai.com/)
 4. `set OPENAI_API_KEY="sk-..."`  in your .env
-5. `streamlit run main.py`
+5. `streamlit run app.py`
 
 
 ### Features
 
-- Codebase ingestion to chromadb vector store https://docs.trychroma.com/docs/overview/introduction, https://docs.trychroma.com/docs/overview/getting-started
+- FAQ ingestion to chromadb vector store https://docs.trychroma.com/docs/overview/introduction, https://docs.trychroma.com/docs/overview/getting-started
 - Search (RAG) : https://python.langchain.com/docs/concepts/rag/ and https://python.langchain.com/docs/how_to/code_splitter/
-- Answers code queries, explains, or edits code
+- Customer support and escalate to human feature
 - Maintains chat and project context
-- Lets you run or save code edits directly from the assistant
+- Lets you save profile and view past queries
 
 ### Example queries
-#generate code to identify emails from text paragraphs
+#tell me about your refund policy
