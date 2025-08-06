@@ -15,7 +15,7 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 1. Open Pycharm and create virtual environment using python3.12
 2. `pip install -r requirements.txt`
 3. [Get OpenAI API key](https://platform.openai.com/)
-4. Create .env file inside project and paste OPENAI_API_KEY="sk-..." in your .env
+4. Create .env file inside project and paste `OPENAI_API_KEY="sk-..."` in your .env
 5. `streamlit run app.py`
 
 
