@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 from amazon_reviews import fetch_amazon_reviews
 from summarizer import summarize_reviews
 from sentiment import analyze_sentiment, analyze_sentiments_per_review
-from image_gen import generate_emoji_image
 from wordcloud_gen import plot_wordcloud
 import streamlit as st
 from utils import load_reviews_from_csv
