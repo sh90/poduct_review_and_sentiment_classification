@@ -1,4 +1,4 @@
-# Customer Service Agent
+# Product Review Summary and Sentiment Classification
 ### IDE 
 Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or https://www.jetbrains.com/pycharm/download/?section=mac 
 
@@ -21,11 +21,8 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 
 ### Features
 
-- FAQ ingestion to chromadb vector store https://docs.trychroma.com/docs/overview/introduction, https://docs.trychroma.com/docs/overview/getting-started
-- Search (RAG) : https://python.langchain.com/docs/concepts/rag/ and https://python.langchain.com/docs/how_to/code_splitter/
-- Customer support and escalate to human feature
-- Maintains chat and project context
-- Lets you save profile and view past queries
+- Fetch review data from CSV/Database/URL/text box
+- Summarize product review
+- Identify overall sentiment and review level sentiment
+- Generate emoji for sentiment
 
-### Example queries
-#tell me about your refund policy
