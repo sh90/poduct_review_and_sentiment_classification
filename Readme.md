@@ -17,7 +17,8 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 3. [Get OpenAI API key](https://platform.openai.com/)
 4. [Get scraping API key](https://www.scrapingdog.com/)
 5. Create .env file inside project and paste `OPENAI_API_KEY="sk-..."` in your .env
-6. `streamlit run app.py`
+6. First run inti_db.py to setup the database
+7. `streamlit run app.py`
 
 
 ### Features
